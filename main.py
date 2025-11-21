@@ -16,5 +16,5 @@ def num_series_normal(numIndexFinal):
 print("")
 ans_1, ans_2 = num_series_normal(int(input("? n = ")))
 print("")
-print("final number: ", ans_1, "\n")
-print("generated string:", ans_2, "\n")
+print("final number: ", ans_2, "\n")
+print("generated string:", ans_1, "\n")

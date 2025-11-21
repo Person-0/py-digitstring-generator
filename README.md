@@ -7,25 +7,25 @@ Sample Output:
 ```
 ? n = 12
 
-ans_1:  1 2 3 4 5 6 7 8 9 1 0 1
+final number:  1 2 3 4 5 6 7 8 9 1 0 1
 
-ans_2: 11
+generated string: 11
 ```
 ```
 
 ? n = 4
 
-ans_1:  1 2 3 4 
+final number:  1 2 3 4 
 
-ans_2: 4 
+generated string: 4 
 
 ```
 ```
 
 ? n = 20
 
-ans_1:  1 2 3 4 5 6 7 8 9 1 0 1 1 1 2 1 3 1 4 1 
+final number:  1 2 3 4 5 6 7 8 9 1 0 1 1 1 2 1 3 1 4 1 
 
-ans_2: 15 
+generated string: 15 
 
 ```
